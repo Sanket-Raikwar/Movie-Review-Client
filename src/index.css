@@ -1,0 +1,4 @@
+.App::-webkit-scrollbar {
+    overflow-y: none;
+    overflow-x: none;
+  }
